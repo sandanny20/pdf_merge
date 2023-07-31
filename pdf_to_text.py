@@ -1,6 +1,6 @@
 # from pypdf import PdfReader
 #
-# pdf_reader = PdfReader('Mr Joel.pdf')
+# pdf_reader = PdfReader('.pdf')
 #
 # page_content = {}
 #
